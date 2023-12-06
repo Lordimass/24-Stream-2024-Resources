@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import ttk
 import ttkthemes as themes
-from PIL import ImageTk, Image
 import os
 import time
 
